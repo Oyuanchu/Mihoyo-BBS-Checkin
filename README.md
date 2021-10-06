@@ -9,4 +9,4 @@ key填入mysCookie
 value填入获取到的cookie  例如：{'login_ticket': 'xxxxxxx', 'stuid': '0123456', 'stoken': 'xxxxxxxxxxxxxxxxxxxx'}
 ## 本地使用
 1.在Global.py中的mysCookie里填入获取到的cookie保存即可
-2.执行index.py
+2.执行index.py开始签到
